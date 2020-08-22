@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sirme\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sirme\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Frog.-286753357.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sirme\Documents\Projects\Frog" t="IncludeRecursive">
+      <e p="app.manifest" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Content" t="Include">
+        <e p="bin" t="Include">
+          <e p="DesktopGL" t="Include">
+            <e p="Content" t="Include">
+              <e p="Sprites" t="Include">
+                <e p="FrogJump.xnb" t="Include" />
+                <e p="FrogSit.xnb" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Windows" t="Include">
+            <e p="Sprites" t="Include">
+              <e p="FrogJump.xnb" t="Include" />
+              <e p="FrogSit.xnb" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Content.mgcb" t="Include" />
+        <e p="obj" t="Include">
+          <e p="DesktopGL" t="Include">
+            <e p="Content" t="Include">
+              <e p=".mgcontent" t="Include" />
+              <e p="Sprites" t="Include">
+                <e p="FrogJump.mgcontent" t="Include" />
+                <e p="FrogSit.mgcontent" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Windows" t="Include">
+            <e p=".mgcontent" t="Include" />
+            <e p="Sprites" t="Include">
+              <e p="FrogJump.mgcontent" t="Include" />
+              <e p="FrogSit.mgcontent" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="FrogJump.png" t="Include" />
+          <e p="FrogSit.png" t="Include" />
+        </e>
+      </e>
+      <e p="Engine" t="Include">
+        <e p="AnchoredSprite.cs" t="Include" />
+        <e p="BallPhysics.cs" t="Include" />
+        <e p="BoxCollider.cs" t="Include" />
+        <e p="GameObject.cs" t="Include" />
+        <e p="Sprite.cs" t="Include" />
+        <e p="Timer.cs" t="Include" />
+      </e>
+      <e p="Frog.csproj" t="IncludeRecursive" />
+      <e p="Frog.sln" t="IncludeFlat" />
+      <e p="Game1.cs" t="Include" />
+      <e p="Icon.bmp" t="Include" />
+      <e p="Icon.ico" t="Include" />
+      <e p="Microsoft.Xna.Framework.Content.ContentTypeReader" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="Frog.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Object" t="Include">
+        <e p="Frog.cs" t="Include" />
+        <e p="Ground.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+  </component>
+</project>
